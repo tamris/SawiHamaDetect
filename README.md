@@ -1,4 +1,3 @@
-SawiHamaDetect
 A web-based application for detecting pests in green cabbage (sawi hijau) using machine learning. This project aims to help farmers identify and manage pests effectively, ensuring healthier crops and improved yields.
 
 Key Features:
